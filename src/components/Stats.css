@@ -1,0 +1,27 @@
+.stats-container {
+    text-align: center;
+    margin: 20px 0;
+    margin-left: 100px;
+    width: 400px;
+    display: flex;;
+  }
+  
+  .stats-container ul {
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+    max-width: 400px;
+    
+  }
+  
+  .stats-container li {
+    margin: 10px 0;
+    height:80px;
+    width: 340px;
+    background-color: bisque;
+    font-size: 40px;
+    border-radius: 1rem;
+    padding: 6px;
+    color:#962071
+  }
+  

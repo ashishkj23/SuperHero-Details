@@ -1,0 +1,13 @@
+.image-container {
+    width: 500px;
+    margin: 20px 0;
+    display: flex;
+    margin-left:40px;
+  }
+  
+  .image-container img {
+    height: auto;
+    border-radius: 2rem;
+  
+  }
+  
